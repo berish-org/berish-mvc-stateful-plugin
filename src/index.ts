@@ -1,7 +1,6 @@
-import "./extension";
-import { plugin } from "./plugin";
+import { plugin } from './plugin';
 
-export * from "./params";
-export * from "./plugin";
+export * from './params';
+export * from './plugin';
 
 export default plugin;
